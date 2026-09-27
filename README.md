@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Gargee 
 
-<!--
-**Gargeeeee7/Gargeeeee7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech IT @ NIT Raipur
 
-Here are some ideas to get you started:
+I build practical web applications and AI-powered solutions,
+with a focus on solving real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Work With
+
+- **Languages:** C++, Java, JavaScript, Python
+- **Frontend:** React, Next.js, HTML, CSS
+- **Backend:** Node.js, REST APIs
+- **AI/ML:** Python, Jupyter, ML workflows
+- **Tools:** Git, GitHub, VS Code
+
+### Featured Projects
+
+| Project | Description |
+|---|---|
+| **LITERATI** | Official website for Literati, NIT Raipur |
+| **Redrob Candidate Ranker** | AI-powered candidate ranking system |
+| **AI Landing Page** | Modern AI product landing page |
+| **GameSync** | Sports booking and scheduling platform |
+
+### Achievements & Activities
+
+- Open Innovation — Codeutsava 9.0
+- Web Development Executive — Literati, NIT Raipur
+- Tech Executive — Technocracy, NIT Raipur
+- Executive — Shaurya, NIT Raipur
+
+### Currently Learning
+
+DSA • Full-Stack Development • AI/ML • System Design
+
+### Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/gargee-dhale/)
